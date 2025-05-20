@@ -1,0 +1,7 @@
+{
+    "token": "your_bot_token_here",
+    "mongodb_uri": "mongodb+srv://your_connection_string",
+    "bot_status": "levels",
+    "xp_per_message": 10,
+    "max_level": 500
+}
